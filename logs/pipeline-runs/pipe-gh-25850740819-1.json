@@ -1,0 +1,25 @@
+{
+  "stage_b": {
+    "run_id": "gh-25850740819-1",
+    "status": "success",
+    "processed_urls": ["https://www.reddit.com/r/MachineLearning/comments/1ky6qmh/d_weekly_discussion_thread/"],
+    "videos_processed": 1,
+    "pipeline_type": "reddit"
+  },
+  "stage_c": {
+    "run_id": "gh-25850740819-1",
+    "start_time": "2026-05-14T08:44:31Z",
+    "end_time": "2026-05-14T08:45:31Z",
+    "duration_s": 60,
+    "llm_calls": 15,
+    "pages_created": 13,
+    "sources": 1,
+    "entities": 4,
+    "concepts": 8,
+    "comparisons": 0,
+    "prompt_tokens": 8914,
+    "completion_tokens": 12408,
+    "status": "success"
+  },
+  "tg_summary": "[REDDIT-KG-SUMMARY] #T-gh-25850740819-1 ✅ 一遍过\n\n📰 r/MachineLearning — 每周讨论：大语言模型规模化定律\n🔗 https://www.reddit.com/r/MachineLearning/comments/1ky6qmh/d_weekly_discussion_thread/\n\n⏱️ 耗时：60s\n🔢 Token：21,322（↑8,914 / ↓12,408）\n\n📊 知识图谱：\n  Source 1 / Entity 4 / Concept 8 / 总 13 页\n\n🟢 Entities：\n  · gpt-4\n  · o1\n  · o3\n  · r-machinelearning\n\n🟡 Concepts：\n  · chinchilla-规模化定律\n  · 合成数据\n  · 思维链\n  · 思考代币\n  · 推理时计算\n  · 规模化定律\n  · 视觉-语言模型\n  · 跨模态对齐\n\n🔗 入口：\n  · r/MachineLearning — 每周讨论：大语言模型规模化定律\n    https://github.com/divanoo65/reddit-wiki/blob/main/wiki/sources/r-machinelearning-每周讨论-大语言模型规模化定律.md\n  · 知识图谱索引\n    https://github.com/divanoo65/reddit-wiki\n\nrun_id: gh-25850740819-1"
+}
